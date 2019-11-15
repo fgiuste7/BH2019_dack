@@ -5,8 +5,13 @@ All code and subjects are saved within the AMI.
 Please create EC2 instance with the following parameters:
 
 Zone: US East (N. Virginia)
-AMI: 'BH2019_5-Step_optimized'
-Instance type: r5a.2xlarge (CPU:8, Mem:64, EBS only)
+AMI: 'BH2019_Final'
+Instance type: m5.8xlarge (CPU:32, Mem:128, EBS only)
+
+Subject Allocation
+7 subjects in 7 instances
+6 subjects in 1 instance
+=55 subjects
 
 Instructions: Within the EC2 instance
 Step 1: 
