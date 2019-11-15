@@ -1,0 +1,75 @@
+Subject Allocation Instructions
+
+EC2 INSTANCES: m5.8xlarge
+AMI: BH2019_Final
+
+EC2 INSTANCE 1:
+sub-128632/
+sub-128935/
+sub-129028/
+sub-129331/
+sub-129634/
+sub-129937/
+sub-130417/
+
+EC2 INSTANCE 2:
+sub-130922/
+sub-131217/
+sub-132017/
+sub-133019/
+sub-133625/
+sub-133827/
+sub-133928/
+
+EC2 INSTANCE 3:
+sub-134021/
+sub-134223/
+sub-134425/
+sub-134829/
+sub-135225/
+sub-135528/
+sub-135932/
+
+EC2 INSTANCE 4:
+sub-136227/
+sub-136732/
+sub-137128/
+sub-137229/
+sub-137633/
+sub-138231/
+sub-138534/
+
+EC2 INSTANCE 5:
+sub-139233/
+sub-139637/
+sub-141826/
+sub-142424/
+sub-143426/
+sub-144125/
+sub-144428/
+
+EC2 INSTANCE 6:
+sub-144832/
+sub-145127/
+sub-146129/
+sub-146331/
+sub-146533/
+sub-146634/
+sub-147030/
+
+EC2 INSTANCE 7:
+sub-148032/
+sub-148133/
+sub-148335/
+sub-148840/
+sub-148941/
+sub-149842/
+sub-150524/
+
+EC2 INSTANCE 8:
+sub-150625/
+sub-150726/
+sub-151223/
+sub-151627/
+sub-151829/
+sub-152831/

@@ -10,7 +10,7 @@ subjects=`ls -d ${base_dir}/sub-*`
 
 for subj in ${subjects}; do
 	echo "Subject: ${subj}"
-	bash ./Fast_Pipeline_5-Steps_Optimized.sh ${subj} &
+	bash ./Fast_Pipeline_5-Steps.sh ${subj} &
 done
 
 echo 'WAITING...'
