@@ -12,4 +12,7 @@ done
 
 echo 'WAITING...'
 sleep
-echo 'DONE'
+echo 'Pipeline DONE'
+echo "Saving derivatives/ to s3 bucket"
+aws s3 cp derivatives/ "s3://d4ck/" --recursive
+
