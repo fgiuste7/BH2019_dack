@@ -3,6 +3,10 @@ Subject Allocation Instructions
 EC2 INSTANCES: m5.8xlarge
 AMI: BH2019_Final
 
+# How to copy each subject:
+subject_name={sub-###}
+aws s3 cp s3://brainhackatl-public/'Track 1'/${subject_name} /home/ubuntu/data/${subject_name} --recursive
+
 EC2 INSTANCE 1:
 sub-128632/
 sub-128935/
