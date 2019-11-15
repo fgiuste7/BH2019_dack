@@ -1,6 +1,8 @@
 #! /bin/bash
 
-subject_path='/home/ubuntu/data/sub-141119'
+export LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:/usr/lib/ROBEX/elastix
+
+subject_path=$1
 
 bash epi_step1.sh ${subject_path} &
 bash anat_step2.sh ${subject_path} &
